@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-Add Location (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfdf6342-f435-405f-a76f-6a47fc4f9db5</testCaseGuid>
+</TestCaseEntity>

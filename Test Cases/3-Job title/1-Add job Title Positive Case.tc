@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1-Add job Title Positive Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f68bfc3-037e-4c44-b1c2-871b99ab25dc</testCaseGuid>
+</TestCaseEntity>

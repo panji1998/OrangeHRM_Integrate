@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-Add job Title Negative Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d436fe87-47c6-4a66-9de0-fb3f4cf71cee</testCaseGuid>
+</TestCaseEntity>
